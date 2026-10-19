@@ -13,3 +13,5 @@ Calculadora de rescisão do contrato de aprendizagem (jovem aprendiz), conforme 
 O jovem aprendiz **não tem direito à multa de 40% do FGTS** em nenhum motivo de desligamento.
 
 Cada verba exibe a memória de cálculo completa e o fundamento legal.
+
+<!-- sync trigger -->
